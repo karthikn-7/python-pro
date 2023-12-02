@@ -1,0 +1,1 @@
+its a script code for sum marks and getting average
