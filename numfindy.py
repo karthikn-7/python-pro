@@ -11,7 +11,6 @@ while running:
         print('You won the game!')
         running=False
     chance = chance-1
-    print('Try again!')
     print('Chances left:',chance)
     if chance == 0:
         print('You lose!')
