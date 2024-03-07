@@ -1,4 +1,7 @@
 def addingarr(arr1,arr2):
+    '''
+    Adding of two arrays
+    '''
     lst = []
     if len(arr1) != len(arr2):
         return -1
